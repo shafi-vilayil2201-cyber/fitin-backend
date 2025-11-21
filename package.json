@@ -1,0 +1,11 @@
+{
+  "name": "fitin-backend",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node api/index.js"
+  },
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
